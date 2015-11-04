@@ -40,7 +40,7 @@ function draw () {
 	triangle(0,width/2,mouseX,height/2,width/2,mouseY);
 	triangle(0,width-200,mouseX,height-200,width/2,mouseY);
 	rect(width/2,0,mouseY,mouseY);
-	noStroke();
+//	noStroke();
 //	quad(0,height-300,width,height/2,width-100,height,width-300,height);
 }
 

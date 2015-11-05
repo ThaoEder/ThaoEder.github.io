@@ -14,5 +14,17 @@ function draw() {
         ellipse(0, y, mouseX, mouseY);
         ellipse(width, y, mouseX, mouseY);
         y = y + 50;
+    }
 }
+
+/*for (var i = 0, i < 10, i++) {
+        
+
 }
+
+var x = 0;
+while (x < 100) {
+    // do stuff
+    x = x + 1;
+}
+} */

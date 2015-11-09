@@ -10,13 +10,13 @@ function draw() {
     //text("A",width/2,200);
     
     
-    var y = 20;
+    var y = 0;
     
     while (y <= height) {
         stroke(255);
         ellipse(0, y, mouseX, mouseY);
         ellipse(width, y, mouseX, mouseY);
-        y = y + 50;
+        y = y + 5;
     }
 }
 

@@ -14,8 +14,8 @@ h1 {
     border: 8px black solid;
 }
 
-h2 {
-    color: blue;
+a:hover{
+    color:#000000;
 }
 
 a {
@@ -28,3 +28,4 @@ a {
     outline: white dotted thin;
     border: 8px black solid;
 }
+

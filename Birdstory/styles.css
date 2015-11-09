@@ -1,0 +1,25 @@
+body {
+	padding: 0; 
+	margin: 0;
+	background-color:blue;
+}
+
+a {
+	color:white;
+	text-decoration:none;
+	font-size:50px;
+}
+
+a:hover {
+	color:blue;
+}
+
+p {
+	color:white;
+	text-decoration:none;
+	font-size:50px;
+	text-align:right;
+	right:30;
+	bottom:0;
+	position:absolute;
+}

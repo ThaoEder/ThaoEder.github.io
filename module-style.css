@@ -1,0 +1,81 @@
+body {
+	padding: 0; 
+	margin: 0;
+	background: 
+}
+
+.module {
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -51px;
+	margin-left: -51px;
+	border: 1px solid black;
+}
+
+/* Add your styles below */
+
+p {
+	margin-left:10;
+	margin-right:10;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size: 12px;
+	padding: 10px;
+}
+
+.kreis {
+	position:absolute;
+	top:40px;
+	left:60px;
+	background-color:gray;
+	width:50px;
+	height: 80px;
+	border-radius:90px;
+}
+
+
+/*
+img {
+	width: 40px;
+	position: absolute;
+	top:25px;
+	left: 50px;
+}
+
+.box {
+	position: absolute;
+	top:50px;
+	left: 10px;
+	background-color: lime;
+	width: 30px;
+	height: 30px;
+	border-radius: 10px;
+
+}
+
+.overlap {
+	position: absolute;
+	bottom: -20px;
+	right: 20px;
+	width: 10px;
+	height: 40px;
+	background-color: blue;
+	border: 1px solid black;
+
+}
+*/
+
+
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: white;
+}
+

@@ -1,0 +1,21 @@
+#right {
+    display:block;
+    float:right;
+    margin-left:width/;
+	background-color: lightblue;
+}
+
+#left {
+    display:block;
+    float:left;
+    margin-right:30px;
+	background-color: white;
+}
+
+#container {
+    position:absolute;
+    top:0;
+    margin: 10px 20px 20px 20px;
+}
+
+

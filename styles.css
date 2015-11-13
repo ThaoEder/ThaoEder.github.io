@@ -7,7 +7,7 @@ h1 {
     color: white;
     margin-left: 20px ;
     margin-right: 20px;
-    font-family: "Dense";
+    font-family: 'Roboto', sans-serif;
     font-size: 50px;
     margin-top: 50px;
     outline: white dotted thick;
@@ -21,7 +21,7 @@ a:hover{
 a {
     color: #c7c7c7;
     margin-left: 20px;
-    font-family: "Dense";
+    font-family: 'Roboto', sans-serif;;
     font-size: 40px;
     margin-bottom: 100px;
     text-decoration: none;
